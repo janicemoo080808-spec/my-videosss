@@ -1,0 +1,10 @@
+[
+  {
+    "id": "v001",
+    "title": "Video 001",
+    "video_url": "https://www.alipan.com/s/dCrFjRud77j",
+    "cover": "./covers/v001.jpg",
+    "tags": ["video"],
+    "note": "Hosted externally"
+  }
+]
